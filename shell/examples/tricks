@@ -1,0 +1,8 @@
+
+ls /home
+ls -l  !$
+
+cp 1.txt 2.txt
+echo  !^ !cp:2
+
+!ls
