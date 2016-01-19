@@ -1,0 +1,16 @@
+查看apt-get 下载的安装包
+ls /var/cache/apt/archives/
+
+删除已经卸载的软件包
+sudo apt-get autoclean
+
+清除电脑上存储的全部安装包
+sudo apt-get clean
+
+清除不需要的依赖
+sudo apt-get autoremove
+
+删除不用的老的旧内核
+uname -r
+sudo apt-get purge XXXX
+
