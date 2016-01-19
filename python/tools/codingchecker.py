@@ -17,12 +17,12 @@ class CodingChecker(object):
 
     def __init__(self, checked_file=None):
         self.checked_file = checked_file
-        if self.checked_file is None:
+        if self.checked_file ==  None:
             self.checked_file = os.path.abspath('.')
         self.counter = 0
         if os.path.exists(self.checked_file):
             if os.path.isdir(self.checked_file):
-                self.checked_file = os.path.abspath(checked_file)
+                self.checked_file = os.path.abspath(self.checked_file)
                 self.tempdir = os.path.join(
                     self.checked_file, datetime.now().strftime('%Y%m%d%H%M%S%f'))
             else:
@@ -104,5 +104,5 @@ class CodingChecker(object):
         self.logger.write(content + '\r\n')
 
 if __name__ == '__main__':
-    cc = CodingChecker('./test')
+    cc = CodingChecker()
     cc.check()
