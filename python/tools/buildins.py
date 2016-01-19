@@ -3,9 +3,11 @@
 
 '''
 usage :
-python buildins.py > results
+python buildins.py > builtins.guide
 '''
+
+flag = '#######*****_*****#######'
 cmds = dir(__builtins__)
 for idx,cmd in enumerate(cmds):
-    print '%s%d%s' % (8*'*',idx,8*'*')
+    print '%s%d%s' % (flag,idx,flag)
     print help (cmd)

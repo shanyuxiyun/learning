@@ -1,4 +1,4 @@
-********0********
+#######*****_*****#######0#######*****_*****#######
 Help on class ArithmeticError in module exceptions:
 
 class ArithmeticError(StandardError)
@@ -64,7 +64,7 @@ class ArithmeticError(StandardError)
  |  message
 
 None
-********1********
+#######*****_*****#######1#######*****_*****#######
 Help on class AssertionError in module exceptions:
 
 class AssertionError(StandardError)
@@ -130,7 +130,7 @@ class AssertionError(StandardError)
  |  message
 
 None
-********2********
+#######*****_*****#######2#######*****_*****#######
 Help on class AttributeError in module exceptions:
 
 class AttributeError(StandardError)
@@ -196,7 +196,7 @@ class AttributeError(StandardError)
  |  message
 
 None
-********3********
+#######*****_*****#######3#######*****_*****#######
 Help on class BaseException in module exceptions:
 
 class BaseException(__builtin__.object)
@@ -252,7 +252,7 @@ class BaseException(__builtin__.object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********4********
+#######*****_*****#######4#######*****_*****#######
 Help on class BufferError in module exceptions:
 
 class BufferError(StandardError)
@@ -318,7 +318,7 @@ class BufferError(StandardError)
  |  message
 
 None
-********5********
+#######*****_*****#######5#######*****_*****#######
 Help on class BytesWarning in module exceptions:
 
 class BytesWarning(Warning)
@@ -385,7 +385,7 @@ class BytesWarning(Warning)
  |  message
 
 None
-********6********
+#######*****_*****#######6#######*****_*****#######
 Help on class DeprecationWarning in module exceptions:
 
 class DeprecationWarning(Warning)
@@ -451,7 +451,7 @@ class DeprecationWarning(Warning)
  |  message
 
 None
-********7********
+#######*****_*****#######7#######*****_*****#######
 Help on class EOFError in module exceptions:
 
 class EOFError(StandardError)
@@ -517,7 +517,7 @@ class EOFError(StandardError)
  |  message
 
 None
-********8********
+#######*****_*****#######8#######*****_*****#######
 Help on ellipsis object:
 
 Ellipsis = class ellipsis(object)
@@ -530,7 +530,7 @@ Ellipsis = class ellipsis(object)
  |      x.__repr__() <==> repr(x)
 
 None
-********9********
+#######*****_*****#######9#######*****_*****#######
 Help on class EnvironmentError in module exceptions:
 
 class EnvironmentError(StandardError)
@@ -608,7 +608,7 @@ class EnvironmentError(StandardError)
  |  message
 
 None
-********10********
+#######*****_*****#######10#######*****_*****#######
 Help on class Exception in module exceptions:
 
 class Exception(BaseException)
@@ -672,11 +672,11 @@ class Exception(BaseException)
  |  message
 
 None
-********11********
+#######*****_*****#######11#######*****_*****#######
 no Python documentation found for 'False'
 
 None
-********12********
+#######*****_*****#######12#######*****_*****#######
 Help on class FloatingPointError in module exceptions:
 
 class FloatingPointError(ArithmeticError)
@@ -743,7 +743,7 @@ class FloatingPointError(ArithmeticError)
  |  message
 
 None
-********13********
+#######*****_*****#######13#######*****_*****#######
 Help on class FutureWarning in module exceptions:
 
 class FutureWarning(Warning)
@@ -810,7 +810,7 @@ class FutureWarning(Warning)
  |  message
 
 None
-********14********
+#######*****_*****#######14#######*****_*****#######
 Help on class GeneratorExit in module exceptions:
 
 class GeneratorExit(BaseException)
@@ -874,7 +874,7 @@ class GeneratorExit(BaseException)
  |  message
 
 None
-********15********
+#######*****_*****#######15#######*****_*****#######
 Help on class IOError in module exceptions:
 
 class IOError(EnvironmentError)
@@ -956,7 +956,7 @@ class IOError(EnvironmentError)
  |  message
 
 None
-********16********
+#######*****_*****#######16#######*****_*****#######
 Help on class ImportError in module exceptions:
 
 class ImportError(StandardError)
@@ -1022,7 +1022,7 @@ class ImportError(StandardError)
  |  message
 
 None
-********17********
+#######*****_*****#######17#######*****_*****#######
 Help on class ImportWarning in module exceptions:
 
 class ImportWarning(Warning)
@@ -1088,7 +1088,7 @@ class ImportWarning(Warning)
  |  message
 
 None
-********18********
+#######*****_*****#######18#######*****_*****#######
 Help on class IndentationError in module exceptions:
 
 class IndentationError(SyntaxError)
@@ -1179,7 +1179,7 @@ class IndentationError(SyntaxError)
  |  message
 
 None
-********19********
+#######*****_*****#######19#######*****_*****#######
 Help on class IndexError in module exceptions:
 
 class IndexError(LookupError)
@@ -1246,7 +1246,7 @@ class IndexError(LookupError)
  |  message
 
 None
-********20********
+#######*****_*****#######20#######*****_*****#######
 Help on class KeyError in module exceptions:
 
 class KeyError(LookupError)
@@ -1313,7 +1313,7 @@ class KeyError(LookupError)
  |  message
 
 None
-********21********
+#######*****_*****#######21#######*****_*****#######
 Help on class KeyboardInterrupt in module exceptions:
 
 class KeyboardInterrupt(BaseException)
@@ -1377,7 +1377,7 @@ class KeyboardInterrupt(BaseException)
  |  message
 
 None
-********22********
+#######*****_*****#######22#######*****_*****#######
 Help on class LookupError in module exceptions:
 
 class LookupError(StandardError)
@@ -1443,7 +1443,7 @@ class LookupError(StandardError)
  |  message
 
 None
-********23********
+#######*****_*****#######23#######*****_*****#######
 Help on class MemoryError in module exceptions:
 
 class MemoryError(StandardError)
@@ -1509,7 +1509,7 @@ class MemoryError(StandardError)
  |  message
 
 None
-********24********
+#######*****_*****#######24#######*****_*****#######
 Help on class NameError in module exceptions:
 
 class NameError(StandardError)
@@ -1575,11 +1575,11 @@ class NameError(StandardError)
  |  message
 
 None
-********25********
+#######*****_*****#######25#######*****_*****#######
 no Python documentation found for 'None'
 
 None
-********26********
+#######*****_*****#######26#######*****_*****#######
 Help on NotImplementedType object:
 
 NotImplemented = class NotImplementedType(object)
@@ -1589,7 +1589,7 @@ NotImplemented = class NotImplementedType(object)
  |      x.__repr__() <==> repr(x)
 
 None
-********27********
+#######*****_*****#######27#######*****_*****#######
 Help on class NotImplementedError in module exceptions:
 
 class NotImplementedError(RuntimeError)
@@ -1656,7 +1656,7 @@ class NotImplementedError(RuntimeError)
  |  message
 
 None
-********28********
+#######*****_*****#######28#######*****_*****#######
 Help on class OSError in module exceptions:
 
 class OSError(EnvironmentError)
@@ -1738,7 +1738,7 @@ class OSError(EnvironmentError)
  |  message
 
 None
-********29********
+#######*****_*****#######29#######*****_*****#######
 Help on class OverflowError in module exceptions:
 
 class OverflowError(ArithmeticError)
@@ -1805,7 +1805,7 @@ class OverflowError(ArithmeticError)
  |  message
 
 None
-********30********
+#######*****_*****#######30#######*****_*****#######
 Help on class PendingDeprecationWarning in module exceptions:
 
 class PendingDeprecationWarning(Warning)
@@ -1872,7 +1872,7 @@ class PendingDeprecationWarning(Warning)
  |  message
 
 None
-********31********
+#######*****_*****#######31#######*****_*****#######
 Help on class ReferenceError in module exceptions:
 
 class ReferenceError(StandardError)
@@ -1938,7 +1938,7 @@ class ReferenceError(StandardError)
  |  message
 
 None
-********32********
+#######*****_*****#######32#######*****_*****#######
 Help on class RuntimeError in module exceptions:
 
 class RuntimeError(StandardError)
@@ -2004,7 +2004,7 @@ class RuntimeError(StandardError)
  |  message
 
 None
-********33********
+#######*****_*****#######33#######*****_*****#######
 Help on class RuntimeWarning in module exceptions:
 
 class RuntimeWarning(Warning)
@@ -2070,7 +2070,7 @@ class RuntimeWarning(Warning)
  |  message
 
 None
-********34********
+#######*****_*****#######34#######*****_*****#######
 Help on class StandardError in module exceptions:
 
 class StandardError(Exception)
@@ -2136,7 +2136,7 @@ class StandardError(Exception)
  |  message
 
 None
-********35********
+#######*****_*****#######35#######*****_*****#######
 Help on class StopIteration in module exceptions:
 
 class StopIteration(Exception)
@@ -2201,7 +2201,7 @@ class StopIteration(Exception)
  |  message
 
 None
-********36********
+#######*****_*****#######36#######*****_*****#######
 Help on class SyntaxError in module exceptions:
 
 class SyntaxError(StandardError)
@@ -2288,7 +2288,7 @@ class SyntaxError(StandardError)
  |  message
 
 None
-********37********
+#######*****_*****#######37#######*****_*****#######
 Help on class SyntaxWarning in module exceptions:
 
 class SyntaxWarning(Warning)
@@ -2354,7 +2354,7 @@ class SyntaxWarning(Warning)
  |  message
 
 None
-********38********
+#######*****_*****#######38#######*****_*****#######
 Help on class SystemError in module exceptions:
 
 class SystemError(StandardError)
@@ -2423,7 +2423,7 @@ class SystemError(StandardError)
  |  message
 
 None
-********39********
+#######*****_*****#######39#######*****_*****#######
 Help on class SystemExit in module exceptions:
 
 class SystemExit(BaseException)
@@ -2493,7 +2493,7 @@ class SystemExit(BaseException)
  |  message
 
 None
-********40********
+#######*****_*****#######40#######*****_*****#######
 Help on class TabError in module exceptions:
 
 class TabError(IndentationError)
@@ -2585,7 +2585,7 @@ class TabError(IndentationError)
  |  message
 
 None
-********41********
+#######*****_*****#######41#######*****_*****#######
 Help on bool object:
 
 True = class bool(int)
@@ -2781,7 +2781,7 @@ True = class bool(int)
  |      the real part of a complex number
 
 None
-********42********
+#######*****_*****#######42#######*****_*****#######
 Help on class TypeError in module exceptions:
 
 class TypeError(StandardError)
@@ -2847,7 +2847,7 @@ class TypeError(StandardError)
  |  message
 
 None
-********43********
+#######*****_*****#######43#######*****_*****#######
 Help on class UnboundLocalError in module exceptions:
 
 class UnboundLocalError(NameError)
@@ -2914,7 +2914,7 @@ class UnboundLocalError(NameError)
  |  message
 
 None
-********44********
+#######*****_*****#######44#######*****_*****#######
 Help on class UnicodeDecodeError in module exceptions:
 
 class UnicodeDecodeError(UnicodeError)
@@ -3000,7 +3000,7 @@ class UnicodeDecodeError(UnicodeError)
  |  message
 
 None
-********45********
+#######*****_*****#######45#######*****_*****#######
 Help on class UnicodeEncodeError in module exceptions:
 
 class UnicodeEncodeError(UnicodeError)
@@ -3086,7 +3086,7 @@ class UnicodeEncodeError(UnicodeError)
  |  message
 
 None
-********46********
+#######*****_*****#######46#######*****_*****#######
 Help on class UnicodeError in module exceptions:
 
 class UnicodeError(ValueError)
@@ -3153,7 +3153,7 @@ class UnicodeError(ValueError)
  |  message
 
 None
-********47********
+#######*****_*****#######47#######*****_*****#######
 Help on class UnicodeTranslateError in module exceptions:
 
 class UnicodeTranslateError(UnicodeError)
@@ -3239,7 +3239,7 @@ class UnicodeTranslateError(UnicodeError)
  |  message
 
 None
-********48********
+#######*****_*****#######48#######*****_*****#######
 Help on class UnicodeWarning in module exceptions:
 
 class UnicodeWarning(Warning)
@@ -3306,7 +3306,7 @@ class UnicodeWarning(Warning)
  |  message
 
 None
-********49********
+#######*****_*****#######49#######*****_*****#######
 Help on class UserWarning in module exceptions:
 
 class UserWarning(Warning)
@@ -3372,7 +3372,7 @@ class UserWarning(Warning)
  |  message
 
 None
-********50********
+#######*****_*****#######50#######*****_*****#######
 Help on class ValueError in module exceptions:
 
 class ValueError(StandardError)
@@ -3438,7 +3438,7 @@ class ValueError(StandardError)
  |  message
 
 None
-********51********
+#######*****_*****#######51#######*****_*****#######
 Help on class Warning in module exceptions:
 
 class Warning(Exception)
@@ -3503,7 +3503,7 @@ class Warning(Exception)
  |  message
 
 None
-********52********
+#######*****_*****#######52#######*****_*****#######
 Help on class ZeroDivisionError in module exceptions:
 
 class ZeroDivisionError(ArithmeticError)
@@ -3570,7 +3570,7 @@ class ZeroDivisionError(ArithmeticError)
  |  message
 
 None
-********53********
+#######*****_*****#######53#######*****_*****#######
 Help on bool object:
 
 __debug__ = class bool(int)
@@ -3766,7 +3766,7 @@ __debug__ = class bool(int)
  |      the real part of a complex number
 
 None
-********54********
+#######*****_*****#######54#######*****_*****#######
 Help on str object:
 
 __doc__ = class str(basestring)
@@ -4121,7 +4121,7 @@ __doc__ = class str(basestring)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********55********
+#######*****_*****#######55#######*****_*****#######
 Help on built-in function __import__ in module __builtin__:
 
 __import__(...)
@@ -4143,7 +4143,7 @@ __import__(...)
     is the number of parent directories to search relative to the current module.
 
 None
-********56********
+#######*****_*****#######56#######*****_*****#######
 Help on str object:
 
 __name__ = class str(basestring)
@@ -4498,11 +4498,11 @@ __name__ = class str(basestring)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********57********
+#######*****_*****#######57#######*****_*****#######
 no Python documentation found for '__package__'
 
 None
-********58********
+#######*****_*****#######58#######*****_*****#######
 Help on built-in function abs in module __builtin__:
 
 abs(...)
@@ -4511,7 +4511,7 @@ abs(...)
     Return the absolute value of the argument.
 
 None
-********59********
+#######*****_*****#######59#######*****_*****#######
 Help on built-in function all in module __builtin__:
 
 all(...)
@@ -4521,7 +4521,7 @@ all(...)
     If the iterable is empty, return True.
 
 None
-********60********
+#######*****_*****#######60#######*****_*****#######
 Help on built-in function any in module __builtin__:
 
 any(...)
@@ -4531,7 +4531,7 @@ any(...)
     If the iterable is empty, return False.
 
 None
-********61********
+#######*****_*****#######61#######*****_*****#######
 Help on built-in function apply in module __builtin__:
 
 apply(...)
@@ -4545,7 +4545,7 @@ apply(...)
         function(*args, **keywords).
 
 None
-********62********
+#######*****_*****#######62#######*****_*****#######
 Help on class basestring in module __builtin__:
 
 class basestring(object)
@@ -4557,7 +4557,7 @@ class basestring(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********63********
+#######*****_*****#######63#######*****_*****#######
 Help on built-in function bin in module __builtin__:
 
 bin(...)
@@ -4566,7 +4566,7 @@ bin(...)
     Return the binary representation of an integer or long integer.
 
 None
-********64********
+#######*****_*****#######64#######*****_*****#######
 Help on class bool in module __builtin__:
 
 class bool(int)
@@ -4762,7 +4762,7 @@ class bool(int)
  |      the real part of a complex number
 
 None
-********65********
+#######*****_*****#######65#######*****_*****#######
 Help on class buffer in module __builtin__:
 
 class buffer(object)
@@ -4833,7 +4833,7 @@ class buffer(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********66********
+#######*****_*****#######66#######*****_*****#######
 Help on class bytearray in module __builtin__:
 
 class bytearray(object)
@@ -5216,7 +5216,7 @@ class bytearray(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********67********
+#######*****_*****#######67#######*****_*****#######
 Help on class str in module __builtin__:
 
 bytes = class str(basestring)
@@ -5571,7 +5571,7 @@ bytes = class str(basestring)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********68********
+#######*****_*****#######68#######*****_*****#######
 Help on built-in function callable in module __builtin__:
 
 callable(...)
@@ -5581,7 +5581,7 @@ callable(...)
     Note that classes are callable, as are instances with a __call__() method.
 
 None
-********69********
+#######*****_*****#######69#######*****_*****#######
 Help on built-in function chr in module __builtin__:
 
 chr(...)
@@ -5590,7 +5590,7 @@ chr(...)
     Return a string of one character with ordinal i; 0 <= i < 256.
 
 None
-********70********
+#######*****_*****#######70#######*****_*****#######
 Help on class classmethod in module __builtin__:
 
 class classmethod(object)
@@ -5637,7 +5637,7 @@ class classmethod(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********71********
+#######*****_*****#######71#######*****_*****#######
 Help on built-in function cmp in module __builtin__:
 
 cmp(...)
@@ -5646,7 +5646,7 @@ cmp(...)
     Return negative if x<y, zero if x==y, positive if x>y.
 
 None
-********72********
+#######*****_*****#######72#######*****_*****#######
 Help on built-in function coerce in module __builtin__:
 
 coerce(...)
@@ -5657,7 +5657,7 @@ coerce(...)
     If coercion is not possible, raise TypeError.
 
 None
-********73********
+#######*****_*****#######73#######*****_*****#######
 Help on built-in function compile in module __builtin__:
 
 compile(...)
@@ -5676,7 +5676,7 @@ compile(...)
     in addition to any features explicitly specified.
 
 None
-********74********
+#######*****_*****#######74#######*****_*****#######
 Help on class complex in module __builtin__:
 
 class complex(object)
@@ -5823,7 +5823,7 @@ class complex(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********75********
+#######*****_*****#######75#######*****_*****#######
 Help on _Printer in module site object:
 
 copyright = class _Printer(__builtin__.object)
@@ -5853,7 +5853,7 @@ copyright = class _Printer(__builtin__.object)
  |  MAXLINES = 23
 
 None
-********76********
+#######*****_*****#######76#######*****_*****#######
 Help on _Printer in module site object:
 
 credits = class _Printer(__builtin__.object)
@@ -5883,7 +5883,7 @@ credits = class _Printer(__builtin__.object)
  |  MAXLINES = 23
 
 None
-********77********
+#######*****_*****#######77#######*****_*****#######
 Help on built-in function delattr in module __builtin__:
 
 delattr(...)
@@ -5893,7 +5893,7 @@ delattr(...)
     ``del x.y''.
 
 None
-********78********
+#######*****_*****#######78#######*****_*****#######
 Help on class dict in module __builtin__:
 
 class dict(object)
@@ -6029,7 +6029,7 @@ class dict(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********79********
+#######*****_*****#######79#######*****_*****#######
 Help on built-in function dir in module __builtin__:
 
 dir(...)
@@ -6047,7 +6047,7 @@ dir(...)
         recursively the attributes of its class's base classes.
 
 None
-********80********
+#######*****_*****#######80#######*****_*****#######
 Help on built-in function divmod in module __builtin__:
 
 divmod(...)
@@ -6056,7 +6056,7 @@ divmod(...)
     Return the tuple ((x-x%y)/y, x%y).  Invariant: div*y + mod == x.
 
 None
-********81********
+#######*****_*****#######81#######*****_*****#######
 Help on class enumerate in module __builtin__:
 
 class enumerate(object)
@@ -6086,7 +6086,7 @@ class enumerate(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********82********
+#######*****_*****#######82#######*****_*****#######
 Help on built-in function eval in module __builtin__:
 
 eval(...)
@@ -6100,7 +6100,7 @@ eval(...)
     If only globals is given, locals defaults to it.
 
 None
-********83********
+#######*****_*****#######83#######*****_*****#######
 Help on built-in function execfile in module __builtin__:
 
 execfile(...)
@@ -6111,7 +6111,7 @@ execfile(...)
     globals and locals.  If only globals is given, locals defaults to it.
 
 None
-********84********
+#######*****_*****#######84#######*****_*****#######
 Help on Quitter in module site object:
 
 exit = class Quitter(__builtin__.object)
@@ -6133,7 +6133,7 @@ exit = class Quitter(__builtin__.object)
  |      list of weak references to the object (if defined)
 
 None
-********85********
+#######*****_*****#######85#######*****_*****#######
 Help on class file in module __builtin__:
 
 class file(object)
@@ -6296,7 +6296,7 @@ class file(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********86********
+#######*****_*****#######86#######*****_*****#######
 Help on built-in function filter in module __builtin__:
 
 filter(...)
@@ -6307,7 +6307,7 @@ filter(...)
     or string, return the same type, else return a list.
 
 None
-********87********
+#######*****_*****#######87#######*****_*****#######
 Help on class float in module __builtin__:
 
 class float(object)
@@ -6512,7 +6512,7 @@ class float(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********88********
+#######*****_*****#######88#######*****_*****#######
 Help on built-in function format in module __builtin__:
 
 format(...)
@@ -6522,7 +6522,7 @@ format(...)
     format_spec defaults to ""
 
 None
-********89********
+#######*****_*****#######89#######*****_*****#######
 Help on class frozenset in module __builtin__:
 
 class frozenset(object)
@@ -6641,7 +6641,7 @@ class frozenset(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********90********
+#######*****_*****#######90#######*****_*****#######
 Help on built-in function getattr in module __builtin__:
 
 getattr(...)
@@ -6652,7 +6652,7 @@ getattr(...)
     exist; without it, an exception is raised in that case.
 
 None
-********91********
+#######*****_*****#######91#######*****_*****#######
 Help on built-in function globals in module __builtin__:
 
 globals(...)
@@ -6661,7 +6661,7 @@ globals(...)
     Return the dictionary containing the current scope's global variables.
 
 None
-********92********
+#######*****_*****#######92#######*****_*****#######
 Help on built-in function hasattr in module __builtin__:
 
 hasattr(...)
@@ -6671,7 +6671,7 @@ hasattr(...)
     (This is done by calling getattr(object, name) and catching exceptions.)
 
 None
-********93********
+#######*****_*****#######93#######*****_*****#######
 Help on built-in function hash in module __builtin__:
 
 hash(...)
@@ -6681,7 +6681,7 @@ hash(...)
     the same hash value.  The reverse is not necessarily true, but likely.
 
 None
-********94********
+#######*****_*****#######94#######*****_*****#######
 
 Welcome to Python 2.7!  This is the online help utility.
 
@@ -6698,7 +6698,7 @@ of what it does; to list the modules whose summaries contain a given word
 such as "spam", type "modules spam".
 
 None
-********95********
+#######*****_*****#######95#######*****_*****#######
 Help on built-in function hex in module __builtin__:
 
 hex(...)
@@ -6707,7 +6707,7 @@ hex(...)
     Return the hexadecimal representation of an integer or long integer.
 
 None
-********96********
+#######*****_*****#######96#######*****_*****#######
 Help on built-in function id in module __builtin__:
 
 id(...)
@@ -6717,7 +6717,7 @@ id(...)
     simultaneously existing objects.  (Hint: it's the object's memory address.)
 
 None
-********97********
+#######*****_*****#######97#######*****_*****#######
 Help on built-in function input in module __builtin__:
 
 input(...)
@@ -6726,7 +6726,7 @@ input(...)
     Equivalent to eval(raw_input(prompt)).
 
 None
-********98********
+#######*****_*****#######98#######*****_*****#######
 Help on class int in module __builtin__:
 
 class int(object)
@@ -6923,7 +6923,7 @@ class int(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********99********
+#######*****_*****#######99#######*****_*****#######
 Help on built-in function intern in module __builtin__:
 
 intern(...)
@@ -6935,7 +6935,7 @@ intern(...)
     same value.
 
 None
-********100********
+#######*****_*****#######100#######*****_*****#######
 Help on built-in function isinstance in module __builtin__:
 
 isinstance(...)
@@ -6947,7 +6947,7 @@ isinstance(...)
     isinstance(x, A) or isinstance(x, B) or ... (etc.).
 
 None
-********101********
+#######*****_*****#######101#######*****_*****#######
 Help on built-in function issubclass in module __builtin__:
 
 issubclass(...)
@@ -6958,7 +6958,7 @@ issubclass(...)
     is a shortcut for issubclass(X, A) or issubclass(X, B) or ... (etc.).
 
 None
-********102********
+#######*****_*****#######102#######*****_*****#######
 Help on built-in function iter in module __builtin__:
 
 iter(...)
@@ -6970,7 +6970,7 @@ iter(...)
     In the second form, the callable is called until it returns the sentinel.
 
 None
-********103********
+#######*****_*****#######103#######*****_*****#######
 Help on built-in function len in module __builtin__:
 
 len(...)
@@ -6979,7 +6979,7 @@ len(...)
     Return the number of items of a sequence or mapping.
 
 None
-********104********
+#######*****_*****#######104#######*****_*****#######
 Help on _Printer in module site object:
 
 license = class _Printer(__builtin__.object)
@@ -7009,7 +7009,7 @@ license = class _Printer(__builtin__.object)
  |  MAXLINES = 23
 
 None
-********105********
+#######*****_*****#######105#######*****_*****#######
 Help on class list in module __builtin__:
 
 class list(object)
@@ -7139,7 +7139,7 @@ class list(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********106********
+#######*****_*****#######106#######*****_*****#######
 Help on built-in function locals in module __builtin__:
 
 locals(...)
@@ -7148,7 +7148,7 @@ locals(...)
     Update and return a dictionary containing the current scope's local variables.
 
 None
-********107********
+#######*****_*****#######107#######*****_*****#######
 Help on class long in module __builtin__:
 
 class long(object)
@@ -7347,7 +7347,7 @@ class long(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********108********
+#######*****_*****#######108#######*****_*****#######
 Help on built-in function map in module __builtin__:
 
 map(...)
@@ -7361,7 +7361,7 @@ map(...)
     the items of the sequence (or a list of tuples if more than one sequence).
 
 None
-********109********
+#######*****_*****#######109#######*****_*****#######
 Help on built-in function max in module __builtin__:
 
 max(...)
@@ -7372,7 +7372,7 @@ max(...)
     With two or more arguments, return the largest argument.
 
 None
-********110********
+#######*****_*****#######110#######*****_*****#######
 Help on class memoryview in module __builtin__:
 
 class memoryview(object)
@@ -7446,7 +7446,7 @@ class memoryview(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********111********
+#######*****_*****#######111#######*****_*****#######
 Help on built-in function min in module __builtin__:
 
 min(...)
@@ -7457,7 +7457,7 @@ min(...)
     With two or more arguments, return the smallest argument.
 
 None
-********112********
+#######*****_*****#######112#######*****_*****#######
 Help on built-in function next in module __builtin__:
 
 next(...)
@@ -7467,14 +7467,14 @@ next(...)
     is exhausted, it is returned instead of raising StopIteration.
 
 None
-********113********
+#######*****_*****#######113#######*****_*****#######
 Help on class object in module __builtin__:
 
 class object
  |  The most base type
 
 None
-********114********
+#######*****_*****#######114#######*****_*****#######
 Help on built-in function oct in module __builtin__:
 
 oct(...)
@@ -7483,7 +7483,7 @@ oct(...)
     Return the octal representation of an integer or long integer.
 
 None
-********115********
+#######*****_*****#######115#######*****_*****#######
 Help on built-in function open in module __builtin__:
 
 open(...)
@@ -7493,7 +7493,7 @@ open(...)
     preferred way to open a file.  See file.__doc__ for further information.
 
 None
-********116********
+#######*****_*****#######116#######*****_*****#######
 Help on built-in function ord in module __builtin__:
 
 ord(...)
@@ -7502,7 +7502,7 @@ ord(...)
     Return the integer ordinal of a one-character string.
 
 None
-********117********
+#######*****_*****#######117#######*****_*****#######
 Help on built-in function pow in module __builtin__:
 
 pow(...)
@@ -7512,7 +7512,7 @@ pow(...)
     equivalent to (x**y) % z, but may be more efficient (e.g. for longs).
 
 None
-********118********
+#######*****_*****#######118#######*****_*****#######
 The ``print`` statement
 ***********************
 
@@ -7554,7 +7554,7 @@ the first expression evaluates to ``None``, then ``sys.stdout`` is
 used as the file for output.
 
 None
-********119********
+#######*****_*****#######119#######*****_*****#######
 Help on class property in module __builtin__:
 
 class property(object)
@@ -7626,7 +7626,7 @@ class property(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********120********
+#######*****_*****#######120#######*****_*****#######
 Help on Quitter in module site object:
 
 quit = class Quitter(__builtin__.object)
@@ -7648,7 +7648,7 @@ quit = class Quitter(__builtin__.object)
  |      list of weak references to the object (if defined)
 
 None
-********121********
+#######*****_*****#######121#######*****_*****#######
 Help on built-in function range in module __builtin__:
 
 range(...)
@@ -7662,7 +7662,7 @@ range(...)
     These are exactly the valid indices for a list of 4 elements.
 
 None
-********122********
+#######*****_*****#######122#######*****_*****#######
 Help on built-in function raw_input in module __builtin__:
 
 raw_input(...)
@@ -7674,7 +7674,7 @@ raw_input(...)
     is printed without a trailing newline before reading.
 
 None
-********123********
+#######*****_*****#######123#######*****_*****#######
 Help on built-in function reduce in module __builtin__:
 
 reduce(...)
@@ -7688,7 +7688,7 @@ reduce(...)
     sequence is empty.
 
 None
-********124********
+#######*****_*****#######124#######*****_*****#######
 Help on built-in function reload in module __builtin__:
 
 reload(...)
@@ -7697,7 +7697,7 @@ reload(...)
     Reload the module.  The module must have been successfully imported before.
 
 None
-********125********
+#######*****_*****#######125#######*****_*****#######
 Help on module repr:
 
 NAME
@@ -7749,7 +7749,7 @@ DATA
 
 
 None
-********126********
+#######*****_*****#######126#######*****_*****#######
 Help on class reversed in module __builtin__:
 
 class reversed(object)
@@ -7778,7 +7778,7 @@ class reversed(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********127********
+#######*****_*****#######127#######*****_*****#######
 Help on built-in function round in module __builtin__:
 
 round(...)
@@ -7788,7 +7788,7 @@ round(...)
     This always returns a floating point number.  Precision may be negative.
 
 None
-********128********
+#######*****_*****#######128#######*****_*****#######
 Help on class set in module __builtin__:
 
 class set(object)
@@ -7955,7 +7955,7 @@ class set(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********129********
+#######*****_*****#######129#######*****_*****#######
 Help on built-in function setattr in module __builtin__:
 
 setattr(...)
@@ -7965,7 +7965,7 @@ setattr(...)
     ``x.y = v''.
 
 None
-********130********
+#######*****_*****#######130#######*****_*****#######
 Help on class slice in module __builtin__:
 
 class slice(object)
@@ -8015,14 +8015,14 @@ class slice(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********131********
+#######*****_*****#######131#######*****_*****#######
 Help on built-in function sorted in module __builtin__:
 
 sorted(...)
     sorted(iterable, cmp=None, key=None, reverse=False) --> new sorted list
 
 None
-********132********
+#######*****_*****#######132#######*****_*****#######
 Help on class staticmethod in module __builtin__:
 
 class staticmethod(object)
@@ -8066,7 +8066,7 @@ class staticmethod(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********133********
+#######*****_*****#######133#######*****_*****#######
 Help on class str in module __builtin__:
 
 class str(basestring)
@@ -8421,7 +8421,7 @@ class str(basestring)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********134********
+#######*****_*****#######134#######*****_*****#######
 Help on built-in function sum in module __builtin__:
 
 sum(...)
@@ -8432,7 +8432,7 @@ sum(...)
     empty, return start.
 
 None
-********135********
+#######*****_*****#######135#######*****_*****#######
 Help on class super in module __builtin__:
 
 class super(object)
@@ -8477,7 +8477,7 @@ class super(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********136********
+#######*****_*****#######136#######*****_*****#######
 Help on class tuple in module __builtin__:
 
 class tuple(object)
@@ -8560,7 +8560,7 @@ class tuple(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********137********
+#######*****_*****#######137#######*****_*****#######
 Help on class type in module __builtin__:
 
 class type(object)
@@ -8653,7 +8653,7 @@ class type(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********138********
+#######*****_*****#######138#######*****_*****#######
 Help on built-in function unichr in module __builtin__:
 
 unichr(...)
@@ -8662,7 +8662,7 @@ unichr(...)
     Return a Unicode string of one character with ordinal i; 0 <= i <= 0x10ffff.
 
 None
-********139********
+#######*****_*****#######139#######*****_*****#######
 Help on class unicode in module __builtin__:
 
 class unicode(basestring)
@@ -9030,7 +9030,7 @@ class unicode(basestring)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********140********
+#######*****_*****#######140#######*****_*****#######
 Help on built-in function vars in module __builtin__:
 
 vars(...)
@@ -9040,7 +9040,7 @@ vars(...)
     With an argument, equivalent to object.__dict__.
 
 None
-********141********
+#######*****_*****#######141#######*****_*****#######
 Help on class xrange in module __builtin__:
 
 class xrange(object)
@@ -9080,7 +9080,7 @@ class xrange(object)
  |      T.__new__(S, ...) -> a new object with type S, a subtype of T
 
 None
-********142********
+#######*****_*****#######142#######*****_*****#######
 Help on built-in function zip in module __builtin__:
 
 zip(...)
