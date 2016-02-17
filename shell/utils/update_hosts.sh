@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PWD=008\r
+PASSWD=008
 CURRENT=`pwd`
 cd ~/bin
 
@@ -10,9 +10,8 @@ if [ ! -f ~/bin/hosts ];then
     echo download hosts fail and exit now.
     exit 1
 fi
-
-[ -f /etc/hosts ] && echo $PWD | sudo -S mv /etc/hosts /etc/hosts.bak 
-[ $? -eq 0 ] && echo $PWD | sudo -S mv ~/bin/hosts /etc/hosts
+[ -f /etc/hosts ] && echo "$PASSWD" | sudo -S mv /etc/hosts /etc/hosts.bak 
+[ $? -eq 0 ] && echo "$PASSWD" | sudo -S mv ~/bin/hosts /etc/hosts
 
 if [ $? -eq 0 ];then
     echo update hosts successfully.
