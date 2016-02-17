@@ -14,3 +14,4 @@ sudo apt-get autoremove
 uname -r
 sudo apt-get purge XXXX
 
+sudo apt-cache search chrome | grep browser
