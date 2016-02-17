@@ -1,0 +1,7 @@
+ls -alh
+
+cat -n /cat/etc
+
+umount /media/lee/b66bba2c-7ffc-4910-8b30-23890e9ee04e
+mount /dev/sda6 ~/disk/ 
+
