@@ -4,3 +4,4 @@ http://get.daum.net/PotPlayer/v3/PotPlayerSetup.exe
 https://notepad-plus-plus.org/repository/6.x/6.8.8/npp.6.8.8.bin.zip
 https://www.python.org/ftp/python/2.7.11/python-2.7.11.msi
 http://d.7-zip.org/a/7z1514.exe
+https://www.voidtools.com/Everything-1.3.4.686.x86-Setup.exe
