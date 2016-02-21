@@ -14,7 +14,7 @@ FOR /F %%i in (%URLs%) DO (
 	SET TEMP=%%i
 	CALL :check_comment !TEMP!
 	IF "X!comment!" == "X" (
-		ECHO download : !TEMP!
+	    ECHO download : !TEMP!
 	    START /B %CURL_CMD% -O -k -# !TEMP!
 	)
 	SET "comment="
@@ -25,6 +25,6 @@ CD %HOME%
 :check_comment
 SET "line=%1"
 FOR /f "delims=" %%j in (' ECHO %line% ^| FINDSTR /R /C:"^#.*$" ') do (
-		SET "comment=%%j"
+	    SET "comment=%%j"
 	    SET "comment=!comment!"
 )
