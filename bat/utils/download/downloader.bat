@@ -27,4 +27,4 @@ SET "line=%1"
 FOR /f "delims=" %%j in (' ECHO %line% ^| FINDSTR /R /C:"^#.*$" ') do (
 	    SET "comment=%%j"
 	    SET "comment=!comment!"
-)
+) 
