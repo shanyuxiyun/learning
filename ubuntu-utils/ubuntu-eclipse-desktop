@@ -1,0 +1,19 @@
+1. sudo gedit /usr/share/applications/eclipse.desktop 
+
+2.在上述文件中添加如下内容
+[Desktop Entry]
+Encoding=UTF-8
+Name=eclipse
+Comment=Eclipse IDE
+Exec=/home/oops/program_files/eclipse/eclipse
+Icon=/home/oops/program_files/eclipse/icon.xpm
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;
+
+3.chmod u+x eclipse.desktop
+
+4.
+desktop-file-install --add-category Development eclipse.desktop
+
